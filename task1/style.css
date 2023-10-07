@@ -1,0 +1,62 @@
+body{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(images.jpeg);
+
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    line-height: 1.5;
+    font-weight: bold ;
+    padding: 1.5px;
+}
+h3{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 1.5px;
+
+}
+
+
+#title{
+    background-color: rgba(194, 173, 79, 0.774);
+    color: black;
+
+}
+.dtt{
+    padding: 25%;
+    text-align: center;
+}
+
+.navbar1{
+    padding: 7% 15%;
+
+}
+
+.brand1{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    font-weight: bold ;
+    color:black;
+    
+}
+
+.nav-item{
+    padding:18px;
+
+}
+.nav-link{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    color: black;
+
+}
+.download-button{
+    margin: 5% 3% 5% 0;    
+}
+
+
